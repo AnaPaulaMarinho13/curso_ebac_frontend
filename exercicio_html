@@ -1,1 +1,22 @@
-http://127.0.0.1:5500/forms.html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Cadastro</title>
+</head>
+<body>
+    <h1>Formulário de Cadastro</h1>
+    <form>
+        <label for="text">Nome:</label>
+        <input type="text"/>
+        <br /> 
+        <label for="E-mail">E-mail:</label>
+        <input id="seu e-mail">
+        <br /> 
+        <label for="Senha">Senha:</label>
+        <input id="sua senha">
+        <br />
+        <button>Cadastrar</button>
+</body>
+</html>
