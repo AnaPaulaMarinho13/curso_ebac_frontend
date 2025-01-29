@@ -15,8 +15,10 @@
         <input id="seu e-mail">
         <br /> 
         <label for="Senha">Senha:</label>
-        <input id="sua senha">
+        <input id="sua senha" type="password">
         <br />
-        <button>Cadastrar</button>
+        <button type="submit">
+            Cadastrar
+        </button>
 </body>
 </html>
